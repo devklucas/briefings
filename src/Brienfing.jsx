@@ -174,7 +174,7 @@ export default function BriefingForm() {
         <>
           <div className="brand" style={{ textAlign: 'center', marginBottom: '20px' }}>
             <div className="logo">
-              <b style={{ fontSize: '24px' }}>criaê</b>
+              <b >criaê</b>
               <small style={{ display: 'block', fontSize: '10px', color: '#888', letterSpacing: '1px' }}>TECNOLOGIA • DESIGN • DIGITAL</small>
             </div>
           </div>
